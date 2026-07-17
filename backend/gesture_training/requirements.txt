@@ -1,0 +1,7 @@
+# JARVIS Gesture Model — Training Dependencies
+tensorflow>=2.15.0
+mediapipe>=0.10.9
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
